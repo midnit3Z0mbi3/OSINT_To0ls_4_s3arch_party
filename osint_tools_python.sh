@@ -22,7 +22,6 @@ pipx install instalooter
 pipx install instaloader
 pipx install whisper-ctranslate2
 pipx install openai-whisper
-pipx install whisper-ctranslate2
 pipx install checkdmarc
 pipx install shodan
 pipx ensurepath
