@@ -26,6 +26,7 @@ snap install seclists
 snap install drawio
 snap install powershell --classic
 snap install joplin-desktop
+snap install youtube-dl-pro
 
 npm install -g ftp-spider
 npm i -g tiktok-scraper
