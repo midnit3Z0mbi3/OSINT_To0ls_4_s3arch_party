@@ -26,3 +26,9 @@ sudo bash sn0int.sh
 
 
 I also recommend downloading and installing BurpSuite, Metasploit, and the TOR browser.
+
+https://portswigger.net/burp/communitydownload
+
+https://apt.metasploit.com/
+
+https://www.torproject.org/download/
