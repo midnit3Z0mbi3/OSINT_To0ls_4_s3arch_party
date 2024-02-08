@@ -26,7 +26,7 @@ bash osint_tools_python.sh
 sudo bash sn0int.sh
 
 
-I also recommend downloading and installing BurpSuite, Metasploit, and the TOR browser.
+I also recommend downloading and installing BurpSuite, Metasploit, and TOR browser.
 
 https://portswigger.net/burp/communitydownload
 
