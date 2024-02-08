@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-apt install ruby-dev nmap wireshark tcpdump ufw postgresql git golang python3-venv pipx httrack webhttrack filezilla mysql-client -y
+apt install ruby-dev nmap wireshark tcpdump ufw postgresql git golang python3-venv pipx httrack webhttrack filezilla mysql-client qtox hexchat gajim -y
 apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble qgis ffmpeg kazam idle ripgrep jq ffuf crunch ssh cherrytree keepassxc remmina stegosuite exifprobe ruby-bundler mpg123 thunderbird curl sq python3-lxml libre-dev -y
 apt install snapd -y
 apt install npm -y
