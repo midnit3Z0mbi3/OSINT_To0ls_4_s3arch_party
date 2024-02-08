@@ -33,3 +33,9 @@ https://portswigger.net/burp/communitydownload
 https://apt.metasploit.com/
 
 https://www.torproject.org/download/
+
+firefox extensions:
+
+firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options,
+
+search by image, ressurrect pages, web archives, copy selected links, onetab, stream detector, joplin webclipper, foxyproxy, adguard
