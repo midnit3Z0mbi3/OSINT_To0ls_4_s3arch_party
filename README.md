@@ -23,3 +23,6 @@ sudo bash osint_packages.sh
 bash osint_tools_python.sh
 
 sudo bash sn0int.sh
+
+
+I also reccomend downloading and install BurpSuite and the TOR browser.
