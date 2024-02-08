@@ -12,9 +12,10 @@ Installation steps:
 
 Download and install Pop!_OS
 
+update and upgrade
+
 download repository zip or git clone
 
-update and upgrade
 
 sudo bash telemetry_remove.sh
 
