@@ -187,8 +187,7 @@ pip install -r requirements.txt
 deactivate
 cd ~/programs/
 git clone https://github.com/jocephus/WikiLeaker.git
-
-cd ~/programs/
+git clone https://github.com/securing/DumpsterDiver.git
 git clone https://github.com/BillyV4/ID-entify.git
 git clone https://github.com/lolwaleet/ReverseIP.git
 git clone https://github.com/Raikia/UhOh365.git
