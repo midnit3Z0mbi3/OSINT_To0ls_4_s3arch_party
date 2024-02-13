@@ -8,6 +8,10 @@ These scripts are intended to be used on Pop!_OS. They might work on other
 
 Debian derivatives and Ubuntu flavors, but I have not tested them.
 
+Version of python used:
+
+Python 3.10.12
+
 
 Installation steps:
 
