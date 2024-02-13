@@ -47,3 +47,10 @@ firefox extensions:
 firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options,
 
 search by image, ressurrect pages, web archives, copy selected links, onetab, stream detector, joplin webclipper, foxyproxy, adguard
+
+
+If you have read OSINT Techniques by Matthew Bazzell I would 
+
+recommend using the search tools he provides. As well as the 
+
+flow charts and templates.
