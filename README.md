@@ -31,8 +31,9 @@ bash osint_tools_python.sh
 
 sudo bash sn0int.sh
 
+Downloads:
 
-I also recommend downloading and installing BurpSuite, Metasploit, ProtonVPN, and TOR browser.
+BurpSuite, Metasploit, ProtonVPN, and TOR browser.
 
 https://portswigger.net/burp/communitydownload
 
