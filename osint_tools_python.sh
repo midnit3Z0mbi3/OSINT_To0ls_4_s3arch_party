@@ -5,7 +5,6 @@ pipx install ghunt
 pipx install socialscan
 pipx install holehe
 pipx install xeuledoc
-pipx install bdfr
 pipx install waybackpy
 pipx install changedetection.io
 pipx install archivebox
@@ -14,14 +13,10 @@ pipx install internetarchive
 pipx install search-that-hash
 pipx install name-that-hash
 pipx install h8mail
-pipx install toutatis
 pipx install gallery-dl
 pipx install domain-stats
 pipx install gitem
-pipx install instalooter
-pipx install instaloader
 pipx install whisper-ctranslate2
-pipx install openai-whisper
 pipx install checkdmarc
 pipx install shodan
 pipx ensurepath
@@ -158,7 +153,8 @@ python3 setup.py install
 deactivate
 cd ~/programs/
 wget https://github.com/GiJ03/Infoga/archive/refs/heads/master.zip
-unzip master
+unzip master.zip
+rm master.zip
 cd Infoga-master
 python3 -m venv infogaEnv
 source infogaEnv/bin/activate
@@ -207,7 +203,6 @@ cd
 go install github.com/jaeles-project/gospider@latest
 go install github.com/hakluke/hakrawler@latest
 go install github.com/tomnomnom/waybackurls@latest
-go install github.com/OJ/gobuster/v3@latest
 go install github.com/aydinnyunus/exifLooter@latest
 
 
