@@ -4,7 +4,7 @@
 apt install ruby-dev nmap wireshark tcpdump ufw postgresql git golang python3-venv pipx httrack webhttrack filezilla mysql-client qtox hexchat gajim audacity gimp inkscape librecad ffuf -y
 apt install mediainfo-gui libimage-exiftool-perl mat2 tor vlc marble qgis ffmpeg kazam idle ripgrep jq ffuf crunch ssh cherrytree keepassxc remmina stegosuite exifprobe ruby-bundler mpg123 thunderbird curl sq python3-lxml libre-dev -y
 apt install snapd -y
-apt install npm -y
+apt install autopsy -y
 
 systemctl enable ufw
 ufw enable
@@ -27,6 +27,3 @@ snap install drawio
 snap install powershell --classic
 snap install joplin-desktop
 snap install youtube-dl-pro
-
-npm install -g ftp-spider
-npm i -g tiktok-scraper
