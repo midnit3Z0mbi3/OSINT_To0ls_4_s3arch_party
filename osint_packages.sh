@@ -12,8 +12,6 @@ systemctl start ssh
 systemctl enable ssh
 systemctl start postgresql
 systemctl enable postgresql
-ufw allow ssh
-ufw allow 4444
 
 
 gem install mechanize
