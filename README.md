@@ -33,11 +33,13 @@ sudo bash sn0int.sh
 
 Downloads:
 
-BurpSuite, Metasploit, ProtonVPN, and TOR browser.
+BurpSuite, Metasploit, Veracrypt, ProtonVPN, and TOR browser.
 
 https://portswigger.net/burp/communitydownload
 
 https://apt.metasploit.com/
+
+https://www.veracrypt.fr/en/Downloads.html
 
 https://protonvpn.com/
 
