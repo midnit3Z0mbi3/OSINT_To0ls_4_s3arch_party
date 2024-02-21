@@ -33,7 +33,7 @@ sudo bash sn0int.sh
 
 Downloads:
 
-BurpSuite, Metasploit, Veracrypt, ProtonVPN, Google Earth Pro, and TOR browser.
+BurpSuite, Metasploit, Veracrypt, ProtonVPN, Google Earth Pro, Google Chrome and TOR browser.
 
 https://portswigger.net/burp/communitydownload
 
@@ -49,10 +49,14 @@ https://www.torproject.org/download/
 
 firefox extensions:
 
-firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options,
+firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options, reveye reverse search,
 
 search by image, ressurrect pages, web archives, copy selected links, onetab, stream detector, joplin webclipper, foxyproxy, adguard, javascript toggle on and off, ghunt companion, download all images, keepassxc
 
+
+Chrome Store Extension:
+
+InVID WeVerify
 
 If you have read OSINT Techniques by Matthew Bazzell I would 
 
