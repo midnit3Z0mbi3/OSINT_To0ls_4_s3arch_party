@@ -43,6 +43,8 @@ https://www.veracrypt.fr/en/Downloads.html
 
 https://www.google.com/earth/about/versions/
 
+https://support.google.com/chrome/a/answer/9025903?hl=en
+
 https://protonvpn.com/
 
 https://www.torproject.org/download/
