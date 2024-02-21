@@ -33,11 +33,9 @@ sudo bash sn0int.sh
 
 Downloads:
 
-BurpSuite, Metasploit, Veracrypt, ProtonVPN, Google Earth Pro, Google Chrome and TOR browser.
+BurpSuite, Veracrypt, ProtonVPN, Google Earth Pro, Google Chrome and TOR browser.
 
 https://portswigger.net/burp/communitydownload
-
-https://apt.metasploit.com/
 
 https://www.veracrypt.fr/en/Downloads.html
 
