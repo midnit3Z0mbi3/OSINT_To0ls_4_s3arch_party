@@ -1,8 +1,8 @@
 # OSINT_To0ls_4_s3arch_party
 
-Tools needed to participate in a OSINT search party, or to practice on your own.
+Tools you will need to participate in a OSINT search party, or to practice on your own.
 
-Based off OSINT Techniques book by Matthew Bazzell and Trace Labs OSINT VM. 
+Based off OSINT Techniques, the book by Matthew Bazzell, and Trace Labs OSINT VM. 
 
 These scripts are intended to be used on Pop!_OS. They might work on other
 
