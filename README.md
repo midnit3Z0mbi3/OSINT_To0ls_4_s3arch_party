@@ -4,9 +4,7 @@ Tools you will need to participate in a OSINT search party, or to practice on yo
 
 Based off OSINT Techniques, the book by Matthew Bazzell, and Trace Labs OSINT VM. 
 
-These scripts are intended to be used on Pop!_OS. They might work on other
-
-Debian derivatives and Ubuntu flavors, but I have not tested them.
+These scripts are intended to be used on Pop!_OS. 
 
 Version of python used:
 
