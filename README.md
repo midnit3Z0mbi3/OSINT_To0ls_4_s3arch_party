@@ -2,7 +2,7 @@
 
 Tools you will need to participate in a OSINT search party, or to practice on your own.
 
-Based off OSINT Techniques, the book by Matthew Bazzell, and Trace Labs OSINT VM. 
+Based on OSINT Techniques, the book by Matthew Bazzell, and Trace Labs OSINT VM. 
 
 These scripts are intended to be used on Pop!_OS. 
 
